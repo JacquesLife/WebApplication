@@ -1,0 +1,7 @@
+/Users/jacqueslife/Desktop/Cloud/WebApp/bin/Release/net8.0/publish/WebApp
+/Users/jacqueslife/Desktop/Cloud/WebApp/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/jacqueslife/Desktop/Cloud/WebApp/bin/Release/net8.0/publish/appsettings.json
+/Users/jacqueslife/Desktop/Cloud/WebApp/bin/Release/net8.0/publish/WebApp.dll
+/Users/jacqueslife/Desktop/Cloud/WebApp/bin/Release/net8.0/publish/WebApp.deps.json
+/Users/jacqueslife/Desktop/Cloud/WebApp/bin/Release/net8.0/publish/WebApp.runtimeconfig.json
+/Users/jacqueslife/Desktop/Cloud/WebApp/bin/Release/net8.0/publish/WebApp.pdb
